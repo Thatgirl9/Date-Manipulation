@@ -1,0 +1,41 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto; */
+  /* padding: 2rem; */
+  text-align: center;
+  background-image: linear-gradient(135deg, #C33764 10%, #1D2671 100%);
+  border-radius: 10px;
+}
+
+.body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  padding: 1em;
+}
+
+.btn-div{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  gap:2em;
+}
+
+button{
+  padding:0.5em;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 7px;
+  font-size: 1.1rem;
+}
+
+.btn-1{
+  background-color: red;
+  color:white;
+  border:1px solid orangered;
+}
+
+.btn-2{
+  background-color: goldenrod;
+  color:white;
+  border:1px solid gold;
+}
